@@ -1,1 +1,1 @@
-rrestarting
+![workflow](https://github.com/Duncan-Hastie/sem/actions/workflows/main.yml/badge.svg)
